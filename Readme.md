@@ -5,3 +5,8 @@
 
 <h3>DAY-2</h3>
 - Practiced Qs on finding time complexity of Iterative dependent and independent for loops and recurrence relations
+
+<h3>DAY-3</h3>
+- Started with recursion
+- Understood about recursion tree, base condition
+- Coded fibonacci number and binary search in recursion
