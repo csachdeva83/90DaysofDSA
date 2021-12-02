@@ -10,3 +10,6 @@
 - Started with recursion<br>
 - Understood about recursion tree, base condition<br>
 - Coded fibonacci number and binary search in recursion
+
+<h3>DAY-4</h3>
+- Practiced Basic Qs on recursion like pallindrome,print number from 1 to n / n to 1, factorial, count zeroes in a number, etc.
