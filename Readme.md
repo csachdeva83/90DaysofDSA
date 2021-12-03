@@ -13,3 +13,13 @@
 
 <h3>DAY-4</h3>
 - Practiced Basic Qs on recursion like pallindrome,print number from 1 to n / n to 1, factorial, count zeroes in a number, etc.
+
+<h3>DAY-5</h3>
+- Practiced Array Qs on recursion like :<br>
+a) Whether the array is sorted<br>
+b) Linear Search<br>
+-> is the element in array<br>
+-> find index from start<br>
+-> find index from end<br>
+-> find all the indexes<br>
+c) Search in a rotated sorted array iteratively as well as recursively
