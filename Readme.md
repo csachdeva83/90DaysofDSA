@@ -23,3 +23,11 @@ b) Linear Search<br>
 -> find index from end<br>
 -> find all the indexes<br>
 c) Search in a rotated sorted array iteratively as well as recursively
+
+<h3>DAY-6,7,8</h3>
+-Practiced recursion Qs on string<br>
+a) Print Permutations of a string<br>
+b) Print Subsequence of a string<br>
+c) remove character<br> 
+All the above Qs follow ups as well<br><br>
+Revised binary search
