@@ -31,3 +31,8 @@ b) Print Subsequence of a string<br>
 c) remove character<br> 
 All the above Qs follow ups as well<br><br>
 Revised binary search
+
+<h3>DAY-9,10,11,12,13</h3>
+- Understood Backtracking<br>
+- Solved NQueens,Maze,NKnights problems<br>
+- Revised Recursion by solving all the Qs from starting in Java.
